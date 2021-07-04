@@ -38,6 +38,6 @@ class GiaiPhuongTrinhBac2 {
 
 
 int main() {
-    GiaiPhuongTrinhBac2 ptb2(2, 7, 3);
+    GiaiPhuongTrinhBac2 ptb2(5, 1, 1);
     return 0;
 }
