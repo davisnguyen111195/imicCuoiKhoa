@@ -1,3 +1,6 @@
+/*
+*Xây dựng Class giải phương trình bậc 2
+*/
 #include <stdio.h>
 #include <math.h>
 #define EPSILON 0.0001f
