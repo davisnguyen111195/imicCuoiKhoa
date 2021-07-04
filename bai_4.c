@@ -1,3 +1,8 @@
+/*
+*Sử dụng thư viện “pthread.h” trên linux hoặc "windown.h" trên windows viết một chương trình multithread. Với 2 thread in xen kẻ dòng chữ:
+[Task 1] Say hello
+[Task 2] Xin chao
+*/
 #include "pthread.h"
 #include <stdio.h>
 
