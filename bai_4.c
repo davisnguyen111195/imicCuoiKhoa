@@ -13,7 +13,6 @@ int main() {
     pthread_create(&thread_main, NULL, &printhello, NULL);
     while(1) {
         printf("Xin Chao");
-        delay(100);
     }
     return 0;
 }
