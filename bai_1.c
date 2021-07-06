@@ -4,8 +4,6 @@
 
 #include <stdio.h>
 
-void Hex(int n); 
-
 void main() {
     __uint16_t x = 0;
     __uint8_t xH = 0;
